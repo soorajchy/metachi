@@ -1,0 +1,23 @@
+{
+  "name": "metachi",
+  "version": "1.0.0",
+  "description": "this test project",
+  "main": "script.js",
+  "scripts": {
+    "grunt": "grunt",
+    "karma":"karma"
+  },
+  "keywords": [
+    "metache"
+  ],
+  "author": "me",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "jasmine-core": "^2.4.1",
+    "karma": "^0.13.19",
+    "karma-chrome-launcher": "^0.2.2",
+    "karma-firefox-launcher": "^0.1.7",
+    "karma-jasmine": "^0.3.6"
+  }
+}
